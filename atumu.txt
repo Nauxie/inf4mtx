@@ -1,0 +1,4 @@
+ucinetid: atumu
+
+
+Hi, I am a student in INF43. I have been using git for over 3 years and I use it in my job everyday.
